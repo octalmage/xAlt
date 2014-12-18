@@ -1,4 +1,3 @@
-; <COMPILER: v1.0.47.0>
 #singleinstance force
 
 If (A_AhkVersion < "1.0.39.00")
